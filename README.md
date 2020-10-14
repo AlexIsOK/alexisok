@@ -1,7 +1,8 @@
 # AlexIsOK
+well i figured out you can have this thing really early but i have no idea what to put here...
 
-self taught. programming since 5th grade. after all this time, my code still looks like a bunch of spaghetti. check out my untitled-bot repository.
+anyways hi i'm a developer of java code that does some stuff like discord bots.
 
-i have a cool website https://alexisok.dev/ i guess
+if you want to talk you can join my [discord server](https://discord.gg/z2xCf73) or [email me](mailto:alex@alexisok.dev).
 
-feel free to email me i'll probably respond within a year or so
+sorry if there are any typos i'm writing this on github and it doesn't have spellcheck.
