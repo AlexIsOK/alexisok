@@ -1,7 +1,5 @@
 # AlexIsOK
 
-## Please enable dark theme on GH if you haven't already (it looks better with it :P)
-
 Java is the best language
 
 ...
