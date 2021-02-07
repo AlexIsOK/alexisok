@@ -13,4 +13,4 @@ I am working on some cool projects.  Feel free to [join my Discord](https://disc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisok&theme=midnight-purple&hide=html,css&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexisok&theme=midnight-purple)
+<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexisok&theme=midnight-purple)-->
