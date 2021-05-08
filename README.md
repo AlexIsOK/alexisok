@@ -1,5 +1,6 @@
 Java is the best language
 
+contact me: discord.gg/r5ndhyX
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=alexisok&theme=midnight-purple&show_icons=true)-->
 
